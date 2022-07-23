@@ -24,7 +24,7 @@
 - vanity url code to check vanity in status and fire the actions
 - channel ID to send thanks message when someone adds thier vanity in status 
 - role ID to assign reward role 
-- thanks message - the message that gets send on channel =
+- thanks message - the message that gets sent on channel
 
 
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
