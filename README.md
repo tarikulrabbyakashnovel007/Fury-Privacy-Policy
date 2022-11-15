@@ -1,11 +1,11 @@
-# Vanity-Privacy-Policy
+# Fury-Privacy-Policy
 
-## **Vanity's Privacy Policy**
-### By using Vanity you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+## **Fury's Privacy Policy**
+### By using Fury you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
- - Server IDs for servers data(channel id, role id, vanity url code)
+ - Server IDs for servers data(channel id, role id, Fury url code)
  - Thanks message set by admin
  - All data are stored & secured using AES Encryption standards.
 
